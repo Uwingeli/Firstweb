@@ -1,4 +1,4 @@
-import Logo1 from "../essential/logo.png";
+import Logo1 from "../essential/Logo.png";
 import Logo2T from "../essential/Logo2.png";
 import Logo3S from "../essential/Logo3.png";
 import Logo4F from "../essential/Logo4.png";
